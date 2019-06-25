@@ -1,0 +1,105 @@
+{
+
+"datasets":
+[{
+    "EVID": "incois2019mgdg",
+    "BULNO": 1,
+    "MAGNITUDE": 7.2,
+    "OT": "2019-06-24 02:06",
+    "LONGITUDE": 129.2,
+    "ORIGINTIME": "2019-06-24 02:06:00",
+    "LATITUDE": -6.53,
+    "DEPTH": 213,
+    "OCEAN_LAND": "PO",
+    "REGIONNAME": "Banda Sea"
+  },{
+    "EVID": "incois2019lxhy",
+    "BULNO": 1,
+    "MAGNITUDE": 6.5,
+    "OT": "2019-06-19 07:06",
+    "LONGITUDE": -177.1,
+    "ORIGINTIME": "2019-06-19 07:06:00",
+    "LATITUDE": -30.78,
+    "DEPTH": 10,
+    "OCEAN_LAND": "PO",
+    "REGIONNAME": "Kermadec Islands, New Zealand"
+  },{
+    "EVID": "incois2019lrfj",
+    "BULNO": 1,
+    "MAGNITUDE": 7.2,
+    "OT": "2019-06-15 10:06",
+    "LONGITUDE": -177.06,
+    "ORIGINTIME": "2019-06-15 10:06:00",
+    "LATITUDE": -30.99,
+    "DEPTH": 10,
+    "OCEAN_LAND": "PO",
+    "REGIONNAME": "Kermadec Islands, New Zealand"
+  },{
+    "EVID": "incois2019kmxx",
+    "BULNO": 1,
+    "MAGNITUDE": 6.6,
+    "OT": "2019-05-30 09:05",
+    "LONGITUDE": -89.31,
+    "ORIGINTIME": "2019-05-30 09:05:00",
+    "LATITUDE": 13.1,
+    "DEPTH": 89,
+    "OCEAN_LAND": "PO",
+    "REGIONNAME": "El Salvador"
+  },{
+    "EVID": "incois2019jjzp",
+    "BULNO": 1,
+    "MAGNITUDE": 7.4,
+    "OT": "2019-05-14 12:05",
+    "LONGITUDE": 152.58,
+    "ORIGINTIME": "2019-05-14 12:05:00",
+    "LATITUDE": -4.3,
+    "DEPTH": 10,
+    "OCEAN_LAND": "PO",
+    "REGIONNAME": "New Britain Region, P.N.G."
+  },{
+    "EVID": "incois2019iwac",
+    "BULNO": 1,
+    "MAGNITUDE": 7,
+    "OT": "2019-05-06 09:05",
+    "LONGITUDE": 146.45,
+    "ORIGINTIME": "2019-05-06 09:05:00",
+    "LATITUDE": -7.03,
+    "DEPTH": 136,
+    "OCEAN_LAND": "PO",
+    "REGIONNAME": "Eastern New Guinea Reg., P.N.G."
+  },{
+    "EVID": "incois2019hxbm",
+    "BULNO": 1,
+    "MAGNITUDE": 6.5,
+    "OT": "2019-04-23 05:04",
+    "LONGITUDE": 125.32,
+    "ORIGINTIME": "2019-04-23 05:04:00",
+    "LATITUDE": 11.78,
+    "DEPTH": 10,
+    "OCEAN_LAND": "PO",
+    "REGIONNAME": "Samar, Philippines"
+  },{
+    "EVID": "incois2019hdky",
+    "BULNO": 1,
+    "MAGNITUDE": 6.7,
+    "OT": "2019-04-12 11:04",
+    "LONGITUDE": 122.59,
+    "ORIGINTIME": "2019-04-12 11:04:00",
+    "LATITUDE": -1.84,
+    "DEPTH": 10,
+    "OCEAN_LAND": "PO",
+    "REGIONNAME": "Sulawesi, Indonesia"
+  },{
+    "EVID": "incois2019hdky",
+    "BULNO": 1,
+    "MAGNITUDE": 6.7,
+    "OT": "2019-04-12 11:04",
+    "LONGITUDE": 122.59,
+    "ORIGINTIME": "2019-04-12 11:04:00",
+    "LATITUDE": -1.84,
+    "DEPTH": 10,
+    "OCEAN_LAND": "PO",
+    "REGIONNAME": "Sulawesi, Indonesia"
+  }
+]
+}
